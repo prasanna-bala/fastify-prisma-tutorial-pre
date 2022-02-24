@@ -22,4 +22,18 @@
 * List products
 * Authentication
 * Request & response validation
+* Swagger docs
 
+## Video structure
+1. Demonstration
+2. Code walk-through
+3. Bootstrap application
+    * Setup Prisma
+    * Create Fastify instance
+4. Create user
+    * Hash password
+5. List users
+6. Login
+    * fastify-jwt setup
+7. Create product
+8. List products
