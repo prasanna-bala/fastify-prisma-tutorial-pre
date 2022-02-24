@@ -1,5 +1,5 @@
 ## dependencies
-yarn add @prisma/client fastify fastify-zod zod zod-to-json-schema
+yarn add @prisma/client fastify fastify-zod zod zod-to-json-schema fastify-jwt
 
 ## devDependencies
 yarn add ts-node-dev typescript @types/node --dev
